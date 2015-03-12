@@ -1,3 +1,6 @@
 [submodule "roles/supervisord_config"]
 	path = roles/supervisord_config
 	url = https://github.com/jcsaaddupuy/ansible-role-supervisord-config
+[submodule "roles/gunicorn_config"]
+	path = roles/gunicorn_config
+	url = https://github.com/jcsaaddupuy/ansible-role-gunicorn-config.git
